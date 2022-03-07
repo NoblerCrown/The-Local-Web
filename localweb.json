@@ -438,9 +438,9 @@
   },
   {
     "id": 20,
-    "name": "Free",
+    "name": "Free Space Counter",
     "username": "",
-    "email": "/free.html",
+    "email": "/free-counter.html",
     "address": {
       "street": "",
       "suite": "",
@@ -461,9 +461,9 @@
   },
   {
     "id": 21,
-    "name": "Free",
+    "name": "All Features",
     "username": "",
-    "email": "/free.html",
+    "email": "/features.html",
     "address": {
       "street": "",
       "suite": "",
@@ -484,9 +484,9 @@
   },
   {
     "id": 22,
-    "name": "Free",
+    "name": "Payed Plans",
     "username": "",
-    "email": "/free.html",
+    "email": "/plans.html",
     "address": {
       "street": "",
       "suite": "",
@@ -507,9 +507,9 @@
   },
   {
     "id": 23,
-    "name": "Free",
+    "name": "Socials of TLW",
     "username": "",
-    "email": "/free.html",
+    "email": "/tlw-social.html",
     "address": {
       "street": "",
       "suite": "",
