@@ -26,7 +26,7 @@
     "id": 2,
     "name": "Owners Website",
     "username": "",
-    "email": "/noble-crown.html",
+    "email": "/nobler.html",
     "address": {
       "street": "",
       "suite": "",
@@ -530,9 +530,9 @@
   },
   {
     "id": 24,
-    "name": "Free",
+    "name": "Terms and Conditions",
     "username": "",
-    "email": "/free.html",
+    "email": "/terms.html",
     "address": {
       "street": "",
       "suite": "",
