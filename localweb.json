@@ -277,9 +277,9 @@
   },
   {
     "id": 13,
-    "name": "Free",
+    "name": "Memes",
     "username": "",
-    "email": "/free.html",
+    "email": "/memes.html",
     "address": {
       "street": "",
       "suite": "",
@@ -300,9 +300,9 @@
   },
   {
     "id": 14,
-    "name": "Free",
+    "name": "News",
     "username": "",
-    "email": "/free.html",
+    "email": "/news.html",
     "address": {
       "street": "",
       "suite": "",
@@ -323,11 +323,11 @@
   },
   {
     "id": 15,
-    "name": "Free",
+    "name": "On Sale",
     "username": "",
-    "email": "/free.html",
+    "email": "/on-sale.html",
     "address": {
-      "street": "",
+      "street": "This plot is on sale!",
       "suite": "",
       "city": "",
       "zipcode": "",
